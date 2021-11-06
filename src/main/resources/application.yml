@@ -1,0 +1,16 @@
+server:
+  port: 9989
+
+spring:
+  application:
+    name: uniswap-v3-backtest
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    generator:
+      write-bigdecimal-as-plain: true
+  h2:
+    console.enabled: false
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: none

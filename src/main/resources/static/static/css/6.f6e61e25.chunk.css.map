@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/NotFound/styles.less"],"names":[],"mappings":"AACA,oBACE,kBAAA,CACA,YAAA,CACA,qBAAA,CACA,yBAAA,CACA,sBAAF","file":"6.f6e61e25.chunk.css","sourcesContent":["\n.notfound-container {\n  align-items: center;\n  display: flex;\n  flex-direction: column;\n  height: calc(100vh - 64px);\n  justify-content: center;\n}"]}
